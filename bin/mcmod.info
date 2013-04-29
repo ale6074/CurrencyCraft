@@ -1,0 +1,21 @@
+[
+{
+  "modid": "Currency",
+  "name": "CurrencyCraft",
+  "description": "Find,Explore, your self in a world of currency",
+  "version": "0.0.1",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "ale6074"
+    "frootlooplol"
+  ],
+  "credits": "mod creator ale6074, textures by frootlooplol, structures by ale6074 and frootlooplol ",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
